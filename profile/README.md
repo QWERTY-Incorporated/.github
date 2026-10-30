@@ -1,4 +1,4 @@
-\# 株式会社QWERTY
+ 株式会社QWERTY
 
 
 
@@ -11,7 +11,7 @@ AI とデータ活用を通じて、企業のバックオフィス業務の効�
 
 
 
-\- Web サイト: https://www.qwerties.net/
+Web サイト: https://www.qwerties.net/
 
 
 
